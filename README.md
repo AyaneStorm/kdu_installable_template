@@ -1,7 +1,7 @@
 # kdu_installable_template
 Template for the Kakadu installable package for SecondLife/Firestorm/Alchemy...
 
-## Instrutions
+## Instructions
 There is absolutely no instructions anywhere for building SecondLife / Firestorm / Alchemy with Kakadu, but I managed to do it. If you're interested, do as follow:
 - Acquire a Kakadu license (can't help you with this, and won't share mine, it's private, please don't ask)
 - Install the Visual Studio 2019 Build Tools and optionnaly Visual Studio itself (won't work with VS2022 build tools with current Kakadu version 8.4.1)
